@@ -85,3 +85,8 @@ There's severl ways to writ a commnet in python script such
 name = "A"
 f"Hello , {name}"
 ````
+
+## exercise_6.py
+
+- Taking some input data and change it to retuern it back with diffrent value.
+
