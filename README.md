@@ -42,7 +42,7 @@ There's severl ways to writ a commnet in python script such
 
 ## exercise_3.py
 
-**Python Operators**
+**Python Operators.**
 
 - `+` Plus
 - `-` Minus
@@ -56,7 +56,7 @@ There's severl ways to writ a commnet in python script such
 
 ## exercise_4.py
 
-**Variables and Names**
+**Variables and Names.**
 
 - A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume). Rules for Python variables:
 
@@ -71,3 +71,17 @@ There's severl ways to writ a commnet in python script such
 - Pascal Case `MyVariableName = "John"`
 - Snake Case `my_variable_name = "John"`
 
+## exercise_5.py
+
+**String formatting.**
+
+- String formatting is essential in python for creating dynamic and well-structuerd text by inserting values into strings.
+- Tools of String Formatting
+- F-string
+- str.format()
+- modulo operator(%)
+
+````python
+name = "A"
+f"Hello , {name}"
+````
