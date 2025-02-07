@@ -88,5 +88,62 @@ f"Hello , {name}"
 
 ## exercise_6.py
 
-- Taking some input data and change it to retuern it back with diffrent value.
+**Python input() Function.**
 
+- The input() function allows user input.
+
+**Syntax.**
+
+- input(prompt)
+
+````python
+x = input('Enter your name:')
+print('Hello, ' + x)
+````
+
+## exercise_7.py
+
+**Parameters, Unpacking, Variables.**
+
+- Parameters is variables placeholders for the actual values the function needs.
+- Unpacking in Python refers to the process of taking elements from iterable objects like tuples, lists, or dictionaries and assigning them to variables. This feature simplifies the handling of compound data structures and enhances code readability.
+- Variables are containers for storing data values.
+
+**Syntax.**
+
+````python
+# Tuple with three elements
+
+my_tuple = (1,2,3)
+
+x,y,z = my_tuple
+
+print(x,y,z)
+
+````
+
+````python
+# Unpacking Iterables
+data = [100, 200, 300]
+a, b, c = data
+print(a, b, c)
+
+````
+
+````python
+# Packing with * Operators
+def sum_all(*args):
+    return sum(args)
+
+print(sum_all(1, 2, 3, 4))
+
+````
+
+- The asterisk (*), known as the star operator, is used in Python to pack arguments into a tuple. This allows functions to accept an arbitrary number of arguments, providing flexibility in function calls. The star operator can be used in function definitions to signify that the function can receive any number of positional arguments.
+
+- An import statement in Python is used to call a Python module or library that provides a specific functionality. This allows your code to use the functions, classes, or variables defined in that module.
+
+````python
+import math
+print(math.pi)
+````
