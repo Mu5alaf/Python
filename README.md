@@ -1,4 +1,4 @@
-# Python
+# Python 
 
 *In this README, I will share Python concepts through exercises from the book Learn Python the Hard Way. The exercises are designed to take you from a beginner level to an intermediate level, making it a journey of discovering what the Python programming language is all about.*
 
