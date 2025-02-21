@@ -35,3 +35,61 @@ print("Modulus:", 10 % 3)
 # Comparison operations
 print("Is 10 greater than 5?", 10 > 5)
 print("Is 10 less than or equal to 5?", 10 <= 5)
+
+
+
+
+
+print("Practice", "makes perfect")
+print("Children Must be taught \n How To Think \n NOt \n What to Think")
+print("\"\"")
+print("2 * 3 * 4 * 5 /10 = ")
+print(2 * 3 * 4 * 5 / 10)
+
+
+
+print("*")
+print("*\t*")
+print("*\t*\t*")
+print("*\t*\t*\t*")
+print("*\t*\t*\t*\t*")
+
+print("*")
+print("* *")
+print("* * *")
+print("* * * *")
+print("* * * * *")
+
+
+print("""
+
+            *
+          * * *
+        * * * * *
+      * * * * * * *
+    * * * * * * * * *
+
+""")
+
+print("""
+
+            *
+          * * *
+        * * * * *
+      * * * * * * *
+    * * * * * * * * *
+      * * * * * * *
+        * * * * *
+          * * *
+            *
+
+""")
+
+day = "Today"
+print("HI")
+print("")
+print("Im mostafa")
+print(3*6)
+print("wonderful", day)
+print("wonderful", day)
+

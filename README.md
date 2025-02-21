@@ -175,4 +175,3 @@ print(math.pi)
          end of file, irrespective of any intervening fseek(3) or similar.
 
 The truncate() method resizes the file to the given number of bytes.
-
