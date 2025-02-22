@@ -10,5 +10,10 @@ print(first ,"+",second,"=", add)
 print(first ,"-",second,"=", sub)
 print(first ,"*",second,"=", mul)
 print(first ,"/",second,"=", div)
+print("\nEnd of Program")
 
-print("End of Program")
+
+"""
+student name : Muhammad Khalaf Muhamamd
+email : muhammadkhalaf195@gmail.com
+"""
