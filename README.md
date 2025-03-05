@@ -23,7 +23,7 @@
 
 - The print() is function prints the specified message to the screen, or other standard output device.
 
-## exercise_2.py
+## exercise_2.py 
 
 **What is # ?**
 
