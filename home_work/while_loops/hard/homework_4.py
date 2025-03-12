@@ -21,7 +21,6 @@ while test_case_counter < test_case:
     print("Total Sum:", total_sum)
     test_case_counter += 1
 
-
 """
 student name : Muhammad Khalaf Muhamamd
 email : muhammadkhalaf195@gmail.com
